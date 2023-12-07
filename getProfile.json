@@ -1,5 +1,4 @@
-{
-  "profile": [
+[
     {
         "label": "이름",
         "value": "김동규 (Donggyu Kim)"
@@ -20,5 +19,4 @@
         "label": "이메일",
         "value": "ehdrbsla12000@gmail.com"
     }
-  ]
-}
+]
