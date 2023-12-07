@@ -1,5 +1,5 @@
 {
-    "profile": [
+    "getProfile": [
         {
             "label": "이름",
             "value": "김동규 (Donggyu Kim)"
