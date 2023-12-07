@@ -1,22 +1,24 @@
-[
-    {
-        "label": "이름",
-        "value": "김동규 (Donggyu Kim)"
-    },
-    {
-        "label": "나이",
-        "value": 25
-    },
-    {
-        "label": "생년월일",
-        "value": "1998-08-12"
-    },
-    {
-        "label": "주소",
-        "value": "경기도 광주시"
-    },
-    {
-        "label": "이메일",
-        "value": "ehdrbsla12000@gmail.com"
-    }
-]
+{
+    "profile": [
+        {
+            "label": "이름",
+            "value": "김동규 (Donggyu Kim)"
+        },
+        {
+            "label": "나이",
+            "value": 25
+        },
+        {
+            "label": "생년월일",
+            "value": "1998-08-12"
+        },
+        {
+            "label": "주소",
+            "value": "경기도 광주시"
+        },
+        {
+            "label": "이메일",
+            "value": "ehdrbsla12000@gmail.com"
+        }
+    ]
+}
